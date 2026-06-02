@@ -1,4 +1,4 @@
-![Orbiton Banner](c0ae3c6f-8c9a-45fd-a825-da4fc9e94423.png)
+![Orbiton Banner](banner.png)
 
 # 🪐 Orbiton — Stay in Orbit
 
