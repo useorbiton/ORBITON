@@ -1,3 +1,5 @@
+![Orbiton Banner](banner.png)
+
 # 🪐 Orbiton — Stay in Orbit
 
 > *The infrastructure layer for a decentralized universe.*
